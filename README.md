@@ -25,4 +25,4 @@ The `numeria.svg` wallpaper is original. Numeria OS is an independent Ubuntu cus
 See [FEATURES.md](FEATURES.md) for three local tools included for mathematics learning.
 
 
-The installer includes ten more applications selected for this distro's purpose. See [FEATURES.md](FEATURES.md) for the list.
+The installer includes fifteen additional purpose-specific applications; the complete list is in [FEATURES.md](FEATURES.md).
