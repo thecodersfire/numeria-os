@@ -24,3 +24,9 @@ The `numeria.svg` wallpaper is original. Numeria OS is an independent Ubuntu cus
 
 See [FEATURES.md](FEATURES.md) for three local tools included for mathematics learning.
 
+
+The installer also includes three purpose-specific applications: **Zotero, Anki, Foliate**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Zotero, Anki, Foliate**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Zotero, Anki, Foliate**. See [FEATURES.md](FEATURES.md).
